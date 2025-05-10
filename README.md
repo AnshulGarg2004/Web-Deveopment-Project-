@@ -38,13 +38,6 @@ The site is live at  https://anshulgarg2004.github.io/Web-Deveopment-Project-/
 
 ---
 
-## 📁 Project Structure
-
-leetmetric/
-├── index.html # Main HTML structure
-├── style.css # All styling: colors, animations, layout
-├── script.js # JavaScript for logic and data fetching
-
 ## Screenshots
 ![Search Interface](https://github.com/user-attachments/assets/d028215a-8ed5-4a56-b4f9-aa64fc141799)
 ![Stats Dashboard](https://github.com/user-attachments/assets/699a2903-90f6-4445-bc16-3e0c5555370c)
